@@ -84,7 +84,9 @@ const LeComment = () => {
       {/* Vidéo de techniques */}
       <section className="py-16 px-4">
         <div className="container mx-auto max-w-4xl">
-          <h2 className="text-3xl font-bold mb-6 text-center">Techniques de Gestion Émotionnelle</h2>
+          <h2 className="text-3xl font-bold mb-6 text-center">Gérer ses émotions, ce n’est pas les bloquer ni les ignorer, mais apprendre à les comprendre et à les exprimer de manière positive.
+
+Voici quelques étapes concrètes pour y arriver :</h2>
           <div className="gradient-card p-8 rounded-xl shadow-card">
             <div className="aspect-video bg-muted rounded-lg flex items-center justify-center mb-6">
               <iframe
