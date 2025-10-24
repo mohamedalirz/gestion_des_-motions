@@ -207,7 +207,7 @@ const Processus = () => {
             <h3 className="text-xl font-bold mb-4">🎯 Notre Objectif</h3>
             <p className="text-muted-foreground leading-relaxed">
               Créer un site éducatif <span className="font-semibold text-foreground">interactif et professionnel</span> qui 
-              démontre notre compréhension approfondie de l'intelligence émotionnelle tout en offrant 
+              démontre notre compréhension approfondie de la Gestion des émotions tout en offrant 
               une expérience utilisateur engageante et mémorable. Ce projet reflète notre engagement 
               envers l'excellence académique et notre capacité à travailler efficacement en équipe.
             </p>
