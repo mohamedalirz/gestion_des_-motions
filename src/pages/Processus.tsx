@@ -5,31 +5,31 @@ import PageLayout from "@/components/PageLayout";
 const Processus = () => {
   const teamMembers = [
     {
-      name: "[Nom du Leader]",
+      name: "Rzeygui Mohamed Ali",
       role: "Chef de Projet",
-      avatar: "L",
+      avatar: "R",
       color: "bg-blue-600",
       isLeader: true,
       justification: "Coordination générale et vision stratégique du projet"
     },
     {
-      name: "[Nom Membre 2]",
+      name: "Benyaala Wael",
       role: "Recherche et Contenu",
-      avatar: "R",
+      avatar: "B",
       color: "bg-green-600",
       isLeader: false,
       justification: "Rédaction et structuration des contenus éducatifs"
     },
     {
-      name: "[Nom Membre 3]",
+      name: "[Abrougui Elaa",
       role: "Design et UX",
-      avatar: "D",
+      avatar: "A",
       color: "bg-purple-600",
       isLeader: false,
       justification: "Création de l'expérience visuelle et interactive"
     },
     {
-      name: "[Nom Membre 4]",
+      name: "Houssem Selmi",
       role: "Technique et Développement",
       avatar: "T",
       color: "bg-orange-600",
