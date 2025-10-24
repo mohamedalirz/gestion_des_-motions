@@ -21,7 +21,7 @@ const Processus = () => {
       justification: "Rédaction et structuration des contenus éducatifs"
     },
     {
-      name: "[Abrougui Elaa",
+      name: "Abrougui Elaa",
       role: "Design et UX",
       avatar: "A",
       color: "bg-purple-600",
