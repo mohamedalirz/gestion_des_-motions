@@ -100,10 +100,77 @@ Voici quelques étapes concrètes pour y arriver :</h2>
               </Card>
               <div className="hidden md:block absolute top-1/2 -right-3 transform -translate-y-1/2 text-primary text-3xl">→</div>
             </div>
-            <p className="text-muted-foreground text-center">
-              Découvrez des techniques concrètes pour mieux gérer vos émotions au quotidien
-            </p>
+            
           </div>
+
+          <div className="gradient-card p-8 rounded-xl shadow-card">
+            <div className="relative">
+              <Card className="p-6 gradient-card border-0 shadow-card h-full">
+                <div className="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mb-4 mx-auto">
+                  <span className="text-2xl font-bold text-primary">2</span>
+                </div>
+                <h3 className="font-semibold text-lg mb-3 text-center">Avant de réagir, il faut respirer, faire une pause, ou changer de cadre quelques minutes.
+Cela évite de réagir sous l’effet de la colère ou de la peur.</h3>
+                {/*<p className="text-sm text-muted-foreground text-center">
+                  Vous identifiez vos émotions et celles des autres rapidement et précisément
+                </p>*/}
+              </Card>
+              <div className="hidden md:block absolute top-1/2 -right-3 transform -translate-y-1/2 text-primary text-3xl">→</div>
+            </div>
+            
+          </div>
+
+          <div className="gradient-card p-8 rounded-xl shadow-card">
+            <div className="relative">
+              <Card className="p-6 gradient-card border-0 shadow-card h-full">
+                <div className="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mb-4 mx-auto">
+                  <span className="text-2xl font-bold text-primary">3</span>
+                </div>
+                <h3 className="font-semibold text-lg mb-3 text-center">Au lieu d’accuser (“tu m’énerves”), on peut utiliser le “je ressens” :
+“Je me sens frustré parce que je n’ai pas été écouté.”
+C’est plus respectueux et plus efficace</h3>
+                {/*<p className="text-sm text-muted-foreground text-center">
+                  Vous identifiez vos émotions et celles des autres rapidement et précisément
+                </p>*/}
+              </Card>
+              <div className="hidden md:block absolute top-1/2 -right-3 transform -translate-y-1/2 text-primary text-3xl">→</div>
+            </div>
+
+          </div>
+
+          <div className="gradient-card p-8 rounded-xl shadow-card">
+            <div className="relative">
+              <Card className="p-6 gradient-card border-0 shadow-card h-full">
+                <div className="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mb-4 mx-auto">
+                  <span className="text-2xl font-bold text-primary">4</span>
+                </div>
+                <h3 className="font-semibold text-lg mb-3 text-center">Gérer ses émotions, c’est aussi savoir écouter celles des autres sans juger.
+Cela permet d’éviter les conflits et d’améliorer la communication</h3>
+                {/*<p className="text-sm text-muted-foreground text-center">
+                  Vous identifiez vos émotions et celles des autres rapidement et précisément
+                </p>*/}
+              </Card>
+              <div className="hidden md:block absolute top-1/2 -right-3 transform -translate-y-1/2 text-primary text-3xl">→</div>
+            </div>
+            
+          </div>
+
+          <div className="gradient-card p-8 rounded-xl shadow-card">
+            <div className="relative">
+              <Card className="p-6 gradient-card border-0 shadow-card h-full">
+                <div className="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mb-4 mx-auto">
+                  <span className="text-2xl font-bold text-primary">5</span>
+                </div>
+                <h3 className="font-semibold text-lg mb-3 text-center">Trouver un équilibre personnel: Faire du sport, méditer, écrire, ou simplement prendre du temps pour soi aide à relâcher la pression.
+Une bonne hygiène émotionnelle rend plus calme et plus concentré.</h3>
+                {/*<p className="text-sm text-muted-foreground text-center">
+                  Vous identifiez vos émotions et celles des autres rapidement et précisément
+                </p>*/}
+              </Card>
+            </div>
+            
+          </div>
+
         </div>
       </section>
 
