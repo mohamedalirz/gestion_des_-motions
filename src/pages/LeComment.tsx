@@ -88,14 +88,17 @@ const LeComment = () => {
 
 Voici quelques étapes concrètes pour y arriver :</h2>
           <div className="gradient-card p-8 rounded-xl shadow-card">
-            <div className="aspect-video bg-muted rounded-lg flex items-center justify-center mb-6">
-              <iframe
-                className="w-full h-full rounded-lg"
-                src="https://www.youtube.com/embed/iCvmsMzlF7o"
-                title="Intelligence Émotionnelle - Techniques"
-                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-                allowFullScreen
-              ></iframe>
+            <div className="relative">
+              <Card className="p-6 gradient-card border-0 shadow-card h-full">
+                <div className="bg-primary/10 w-12 h-12 rounded-full flex items-center justify-center mb-4 mx-auto">
+                  <span className="text-2xl font-bold text-primary">1</span>
+                </div>
+                <h3 className="font-semibold text-lg mb-3 text-center">La première étape, c’est de reconnaître ce qu’on ressent.</h3>
+                {/*<p className="text-sm text-muted-foreground text-center">
+                  Vous identifiez vos émotions et celles des autres rapidement et précisément
+                </p>*/}
+              </Card>
+              <div className="hidden md:block absolute top-1/2 -right-3 transform -translate-y-1/2 text-primary text-3xl">→</div>
             </div>
             <p className="text-muted-foreground text-center">
               Découvrez des techniques concrètes pour mieux gérer vos émotions au quotidien
