@@ -6,11 +6,11 @@ const Processus = () => {
   const teamMembers = [
     {
       name: "Rzeygui Mohamed Ali",
-      role: "Chef de Projet",
+      role: "Chef de Projet, Design et UX",
       avatar: "R",
       color: "bg-blue-600",
       isLeader: true,
-      justification: "Coordination générale et vision stratégique du projet"
+      justification: "Création de l'expérience visuelle et interactive"
     },
     {
       name: "Benyaala Wael",
@@ -18,15 +18,15 @@ const Processus = () => {
       avatar: "B",
       color: "bg-green-600",
       isLeader: false,
-      justification: "Rédaction et structuration des contenus éducatifs"
+      justification: "Coordination générale et vision stratégique du projet ,"
     },
     {
       name: "Abrougui Elaa",
-      role: "Design et UX",
+      role: "Recherche et Contenu",
       avatar: "A",
       color: "bg-purple-600",
       isLeader: false,
-      justification: "Création de l'expérience visuelle et interactive"
+      justification: "Rédaction et structuration des contenus éducatifs"
     },
     {
       name: "Houssem Selmi",

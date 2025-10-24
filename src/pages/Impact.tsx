@@ -81,7 +81,7 @@ const Impact = () => {
       {/* Statistiques d'Impact */}
       <section className="py-16 px-4">
         <div className="container mx-auto">
-          <h2 className="text-3xl font-bold mb-12 text-center">L'IE en Chiffres</h2>
+          <h2 className="text-3xl font-bold mb-12 text-center">La gestion des emotions en Chiffres</h2>
           
           <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-6 max-w-6xl mx-auto mb-12">
             {impacts.map((impact, index) => (
