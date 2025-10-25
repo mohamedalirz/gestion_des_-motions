@@ -265,7 +265,7 @@ const LeComment = () => {
             {[1,2,3,4,5].map((n) => {
               const titles = [
                 "La première étape, c’est de reconnaître ce qu’on ressent.",
-                "Avant de réagir, il faut respirer, faire une pause, ou changer de cadre quelques minutes.",
+                "Avant de réagir, il faut respirer, faire une pause, ou changer de cadre quelques minutes. ",
                 "Au lieu d’accuser (“tu m’énerves”), on peut utiliser le “je ressens”.",
                 "Gérer ses émotions, c’est aussi savoir écouter celles des autres sans juger.",
                 "Trouver un équilibre personnel: sport, méditation, écriture, temps pour soi."
